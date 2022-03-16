@@ -1,5 +1,5 @@
 # Python-Geolocator
-> Use to geolocate a bunch of addresses!
+*Use to geolocate a bunch of addresses!*
 
 ## Instructions
 
