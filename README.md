@@ -1,6 +1,6 @@
 # Python-Geolocator
 Use to geolocate a bunch of addresses!
-
+  
 
 ## Instructions
 
@@ -14,7 +14,6 @@ Use to geolocate a bunch of addresses!
 
 
 **Important** Chromedriver must be in the same folder with the geolocator.py file **/Important**
-
-
-
-That's all, enjoy!
+  
+  
+**That's all, enjoy!**
