@@ -1,7 +1,7 @@
 # Python-Geolocator
 Use to geolocate a bunch of addresses!
 
-##Instructions
+## Instructions
 
 * You have to create a .CSV file with all the addresses you want to geolocate. Then replace the file's link in line 15 of the .py file.
 
