@@ -9,7 +9,8 @@ Here you have some info: https://developers.google.com/maps/documentation/geocod
 Also you'll have to install googlemaps module.
 Instructions: https://pypi.org/project/googlemaps/
 
-Geolocator works on Chrome using chromedriver, so you have to download it and 
-**Important** Have it in the same folder with the geolocator.py file **/Important**
+Geolocator works on Chrome using chromedriver, so you have to download it: https://chromedriver.chromium.org/getting-started
+
+**Important** Chromedriver must be in the same folder with the geolocator.py file **/Important**
 
 That's all, enjoy!
